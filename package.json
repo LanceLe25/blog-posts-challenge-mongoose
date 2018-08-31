@@ -1,0 +1,27 @@
+{
+  "name": "blog-posts-challenge-mongoose",
+  "version": "1.0.0",
+  "description": "blog posts challenge with mongoose",
+  "main": "config.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.12",
+    "morgan": "^1.9.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha --exit",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LanceLe25/blog-posts-challenge-mongoose.git"
+  },
+  "author": "Lance Le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LanceLe25/blog-posts-challenge-mongoose/issues"
+  },
+  "homepage": "https://github.com/LanceLe25/blog-posts-challenge-mongoose#readme"
+}
